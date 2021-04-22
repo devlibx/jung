@@ -2,23 +2,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>net.sf.jung</groupId>
+  <groupId>io.github.devlibx.jung</groupId>
   <artifactId>jung-parent</artifactId>
   <version>3.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>JUNG (parent metadata project)</name>
-  <url>http://jrtom.github.io/jung/</url>
+  <url>http://devlibx.github.io/jung/</url>
   <licenses>
     <license>
       <name>The BSD License</name>
-      <url>https://github.com/jrtom/jung/blob/master/LICENSE</url>
+      <url>https://github.com/devlibx/jung/blob/master/LICENSE</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
   <scm>
-    <url>https://github.com/jrtom/jung</url>
-    <connection>scm:git:git://github.com/jrtom/jung.git</connection>
-    <developerConnection>scm:git:git://github.com/jrtom/jung.git</developerConnection>
+    <url>https://github.com/devlibx/jung</url>
+    <connection>scm:git:git://github.com/devlibx/jung.git</connection>
+    <developerConnection>scm:git:git://github.com/devlibx/jung.git</developerConnection>
   </scm>
   <description>
     JUNG the Java Universal Network/Graph Framework--is a software

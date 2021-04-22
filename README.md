@@ -25,7 +25,7 @@ To add a dependency on this release of JUNG using Maven, use the following for e
 
 ```xml
 <dependency>
-  <groupId>net.sf.jung</groupId>
+  <groupId>io.github.devlibx.jung</groupId>
   <artifactId>jung-[subpackage]</artifactId>
   <version>2.1.1</version>
 </dependency>
