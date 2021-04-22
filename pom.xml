@@ -17,8 +17,8 @@
   </licenses>
   <scm>
     <url>https://github.com/devlibx/jung</url>
-    <connection>scm:git:https://github.com/devlibx/jung.git</connection>
-    <developerConnection>scm:git:https://github.com/devlibx/jung.git</developerConnection>
+    <connection>scm:git:git://github.com/devlibx/jung.git</connection>
+    <developerConnection>scm:git:git://github.com/devlibx/jung.git</developerConnection>
   </scm>
   <description>
     JUNG the Java Universal Network/Graph Framework--is a software
