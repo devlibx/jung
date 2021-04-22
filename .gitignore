@@ -4,6 +4,9 @@
 *~
 *.bak
 
+release.properties
+jung-samples/release.properties
+
 # Maven
 target/
 *.ser
