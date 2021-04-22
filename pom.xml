@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.devlibx.jung</groupId>
   <artifactId>jung-parent</artifactId>
-  <version>3.1-SNAPSHOT</version>
+  <version>3.1</version>
   <packaging>pom</packaging>
   <name>JUNG (parent metadata project)</name>
   <url>http://devlibx.github.io/jung/</url>
@@ -18,7 +18,7 @@
     <url>https://github.com/devlibx/jung</url>
     <connection>scm:git:https://github.com/devlibx/jung.git</connection>
     <developerConnection>scm:git:https://github.com/devlibx/jung.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>3.1</tag>
   </scm>
   <description>
     JUNG the Java Universal Network/Graph Framework--is a software
